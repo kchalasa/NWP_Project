@@ -8,10 +8,10 @@ Next Word Prediction - Natural Language Processing Application for Coursera Data
 #### Contents briefly described
 
 **NWP_Application**
-To deploy this application on your local machine please follow the following steps in the order listed below:
+To deploy this application on to your local machine please follow the following steps below in the order of listing:
 
-- Connect to R Console or RSTUDIO
-- Libraries Required
+- Connect to R Console 
+- Prerequisites - Libraries Required
   + shiny
   + data.table
   + ggplot2
@@ -25,11 +25,10 @@ To deploy this application on your local machine please follow the following ste
   
   
 **Ngrams**
-R scripts used in building and evaluating this model are included here.  README markdown included in this folder specifies the order of execution. 
+R scripts used in building and evaluating this model are included here.  README included specifies the order of execution of these scripts. 
 Source data from [HC Corpora](https://d396qusza40orc.cloudfront.net/dsscapstone/dataset/Coursera-SwiftKey.zip) will need to be downloaded and unzipped into the
 data folder of current working directory where these scripts are saved. 
  
-
 **Presentation**
 This folder contains the presentation files for this application.
 
