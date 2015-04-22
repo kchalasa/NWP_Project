@@ -87,3 +87,7 @@ return(predicted_words)
 
 }
 
+predict_single_word<-function(x,n) 
+		{  
+			predict_next_word(x)$word[1]
+		}
