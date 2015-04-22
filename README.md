@@ -29,7 +29,7 @@ This folder contains the presentation files for this application.
 **Ngrams**
 Reproducible R scripts used in building and evaluating this model are included here.  README markdown included in this folder specifies the order of execution. 
 Source data from [HC Corpora](https://d396qusza40orc.cloudfront.net/dsscapstone/dataset/Coursera-SwiftKey.zip) will need to be downloaded and unzipped into the
-data folder of current working directory where these scripts are saved. Additional model scripts which was rejected due to lower accuracy.
+data folder of current working directory where these scripts are saved. 
  
  **exploratoryDataAnalysis**
  
