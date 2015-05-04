@@ -23,20 +23,10 @@ To deploy this application on to your local machine please follow the following 
   + predict_next_word("how are you")          &nbsp;&nbsp;&nbsp;# Returns a data.table of up to four words [prob (probability); word (predicted next word); ngram (ngram used in prediction)]
   + predict_single_word("how are you")        &nbsp;&nbsp;&nbsp;# Returns Single word
   
-  
-**Ngrams**
-R scripts used in building and evaluating this model are included here.  README included specifies the order of execution of these scripts. 
-Source data from [HC Corpora](https://d396qusza40orc.cloudfront.net/dsscapstone/dataset/Coursera-SwiftKey.zip) will need to be downloaded and unzipped into the
-data folder of current working directory where these scripts are saved. 
- 
+   
 **Presentation**
 This folder contains the presentation files for this application.
 
-**ExploratoryDataAnalysis**
- 
- This folder contains the scripts used in generating milestone report on exploratory data analysis. Ngrams for exploratory analysis 
- were generated using TM and RWeka packages in R.
- 
  
 
 
