@@ -32,7 +32,7 @@ data folder of current working directory where these scripts are saved.
 **Presentation**
 This folder contains the presentation files for this application.
 
-**exploratoryDataAnalysis**
+**ExploratoryDataAnalysis**
  
  This folder contains the scripts used in generating milestone report on exploratory data analysis. Ngrams for exploratory analysis 
  were generated using TM and RWeka packages in R.
